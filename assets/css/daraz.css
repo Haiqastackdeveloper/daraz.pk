@@ -183,7 +183,7 @@ section>.list{
 }
 .list>ul>li>.list1{
     border-right: 1px solid #757575;
-    padding-right: 20px;
+    padding-right: 15px;
     font-size: 14px;
 }
 .list>ul>li>.list2{
@@ -246,13 +246,13 @@ section>.container>.title{
     color: #424242;
     font-weight: 400;
 }
-.catogory-items>.ul{
+.category-items>.ul{
     width: 100%;
     background-color: #fff;
     min-height: 297px;
     margin-left: 70px;
 }
-.catogory-items>.ul>.li{
+.category-items>.ul>.li{
     width: 12.5%;
     height: 148.5px;
     border-right: 1px solid #e2e2e2;
@@ -260,12 +260,12 @@ section>.container>.title{
     background-color: #fff;
     float: left;
 }
-.catogory-items>.ul>.li>img{
+.category-items>.ul>.li>img{
     width: 80px;
     height: 80px;
     margin: 10px 35px;
 }
-.catogory-items>.ul>.li>span{
+.category-items>.ul>.li>span{
     /* margin: 30px; */
     text-align: center;
     display: -webkit-box;
